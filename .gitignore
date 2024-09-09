@@ -6,3 +6,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+
+*.pyc
+__pycache__/
+.env
+.DS_Store
